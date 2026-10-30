@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Queens",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/queens.py",
+            "console": "integratedTerminal"
+        }
+    ]
+}
