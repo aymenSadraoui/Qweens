@@ -1,6 +1,6 @@
-# Queens (LinkedIn-style puzzle) in Python
+# Qweens (LinkedIn-style puzzle) in Python
 
-Place exactly one queen in every **row**, **column** and **colored region**.
+Place exactly one queen in every **row**, **column**, and **colored region**.
 Queens may never touch each other, not even diagonally.
 Every generated puzzle has exactly **one** solution.
 
@@ -19,7 +19,7 @@ In VS Code: open this folder, open `queens.py`, press **F5** (a launch
 configuration is included) or click the "Run Python File" button.
 
 If Python says Tkinter is missing: on Debian/Ubuntu run
-`sudo apt install python3-tk`, on macOS with Homebrew run
+`sudo apt install python3-tk`, on macOS with Homebrew, run
 `brew install python-tk`.
 
 ## Controls
